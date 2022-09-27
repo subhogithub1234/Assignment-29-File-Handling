@@ -1,0 +1,1 @@
+Program to check a file's status in file handling in Python
